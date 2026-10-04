@@ -486,9 +486,13 @@ async function startServer() {
     });
   }
 
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`[Sahakar Sathi AI] Full-stack Server running at http://0.0.0.0:${PORT}`);
-  });
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`[Sahakar Sathi AI] Full-stack Server running at http://0.0.0.0:${PORT}`);
+});
 }
 
-startServer();
+export { app };
+
+if (!process.env.VERCEL) {
+  startServer();
+}
