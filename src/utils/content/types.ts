@@ -1,0 +1,256 @@
+import { SupportedLanguage } from '../../types';
+
+export interface PageContent {
+  landing: {
+    heroDesc: string;
+    stepsTitle: string;
+    stepsSubtitle: string;
+    stepsBadge: string;
+    fourSteps: Array<{ step: string; desc: string }>;
+    coreCaps: Array<{ title: string; desc: string; link: string }>;
+    targetTitle: string;
+    targetSubtitle: string;
+    targetBadge: string;
+    stakeholders: string[];
+  };
+  dashboard: {
+    farmerGreeting: (name: string) => string;
+    suggestedTitle: string;
+    pillarsTitle: string;
+    pillarsCount: string;
+    serviceCards: Array<{
+      id: string;
+      title: string;
+      desc: string;
+      badge: string;
+      color: string;
+    }>;
+  };
+  pacs: {
+    badge: string;
+    title: string;
+    desc: string;
+    noteTitle: string;
+    noteDesc: string;
+    coreTitle: string;
+    coreServices: Array<{ title: string; desc: string; tag: string }>;
+    expandedTitle: string;
+    expandedServices: Array<{ title: string; desc: string }>;
+    ctaTitle: string;
+    ctaDesc: string;
+    ctaBtn: string;
+  };
+  pmfby: {
+    badge: string;
+    title: string;
+    desc: string;
+    alertBadge: string;
+    alertTitle: string;
+    alertDesc: string;
+    alertBtn: string;
+    stepsTitle: string;
+    steps: Array<{ step: string; desc: string }>;
+    docsTitle: string;
+    docs: string[];
+    faqTitle: string;
+    faqs: Array<{ q: string; a: string }>;
+  };
+  cooperative: {
+    badge: string;
+    title: string;
+    desc: string;
+    pillars: Array<{
+      tag: string;
+      title: string;
+      items: string[];
+    }>;
+    rightsTitle: string;
+    rights: string[];
+  };
+  schemes: {
+    badge: string;
+    title: string;
+    desc: string;
+    whoItHelpsLabel: string;
+    benefitsLabel: string;
+    applyLabel: string;
+    askAiBtn: string;
+    schemesList: Array<{
+      id: string;
+      title: string;
+      whoItHelps: string;
+      benefits: string;
+      howToApply: string;
+      ministry: string;
+      badge: string;
+    }>;
+  };
+  financial: {
+    badge: string;
+    title: string;
+    desc: string;
+    goldenRulesBadge: string;
+    goldenRulesTitle: string;
+    goldenRules: Array<{ title: string; desc: string }>;
+    kccTitle: string;
+    kccDesc: string;
+    kccPoints: string[];
+  };
+  loanCalculator: {
+    title: string;
+    subtitle: string;
+    badge: string;
+    amountLabel: string;
+    rateLabel: string;
+    tenureLabel: string;
+    monthlyEmi: string;
+    totalInterest: string;
+    totalRepayment: string;
+    kccDiscountTitle: string;
+    kccDiscountDesc: (saved: number) => string;
+    disclaimer: string;
+  };
+  grievance: {
+    badge: string;
+    title: string;
+    desc: string;
+    categories: Array<{ id: string; label: string; desc: string }>;
+    step1Title: string;
+    step1Desc: string;
+    step2Title: string;
+    step2Desc: string;
+    step2Placeholder: string;
+    step3Title: string;
+    step3Desc: string;
+    nameLabel: string;
+    districtLabel: string;
+    uploadDocLabel: string;
+    step4Title: string;
+    step4Desc: string;
+    complainantLabel: string;
+    categoryLabel: string;
+    jurisdictionLabel: string;
+    confirmSubmitBtn: string;
+    step5Success: string;
+    trackingIdLabel: string;
+    statusLabel: string;
+    assignedAuthLabel: string;
+    trackRecordNotice: string;
+    nextBtn: string;
+    backBtn: string;
+    newGrievanceBtn: string;
+    trackTitle: string;
+    trackSubtitle: string;
+    trackPlaceholder: string;
+    trackBtn: string;
+  };
+  contacts: {
+    badge: string;
+    title: string;
+    desc: string;
+    contactsList: Array<{
+      title: string;
+      number: string;
+      desc: string;
+      timing: string;
+      category: string;
+      color: string;
+    }>;
+  };
+  kiosk: {
+    badge: string;
+    title: string;
+    desc: string;
+    note: string;
+    terminalTitle: string;
+    terminalDesc: string;
+    specs: Array<{ title: string; desc: string }>;
+  };
+  impact: {
+    badge: string;
+    title: string;
+    desc: string;
+    impactTitle: string;
+    impacts: Array<{ num: string; title: string; desc: string }>;
+    archBadge: string;
+    archTitle: string;
+    archDesc: string;
+    layers: Array<{ title: string; desc: string; color: string }>;
+    scenariosTitle: string;
+    scenariosSubtitle: string;
+    scenarios: Array<{ tag: string; title: string }>;
+  };
+  voiceAssistant: {
+    badge: string;
+    title: string;
+    desc: string;
+    troubleshootBtn: string;
+    speakerTestBtn: string;
+    troubleshootTitle: string;
+    step1Title: string;
+    step1Desc: string;
+    step2Title: string;
+    step2Desc: string;
+    step3Title: string;
+    step3Desc: string;
+    micErrorTitle: string;
+    retryBtn: string;
+    closeBtn: string;
+    heroBadge: string;
+    heroSubtitle: string;
+    statusTapToSpeak: string;
+    statusListening: string;
+    liveTranscriptionTitle: string;
+    queryLabel: string;
+    thinkingLabel: string;
+    manualPlaceholder: string;
+    askBtn: string;
+    instantVoiceTitle: string;
+    instantVoiceSubtitle: string;
+    listenLabel: string;
+    voiceResponseTitle: string;
+    replayLabel: string;
+  };
+  chat: {
+    activeStatus: string;
+    subTitle: string;
+    voiceBtn: string;
+    sectionLabel: string;
+    chips: Array<{ label: string; category: string }>;
+    thinking: string;
+    suggestedLabel: string;
+    inputPlaceholder: string;
+    listeningPlaceholder: string;
+  };
+  history: {
+    badge: string;
+    title: string;
+    desc: string;
+    activeMemberBadge: string;
+    villageLabel: string;
+    districtLabel: string;
+    pacsLabel: string;
+    allTab: string;
+    queriesTab: string;
+    grievancesTab: string;
+    noHistory: string;
+    demoNotice: string;
+  };
+  admin: {
+    badge: string;
+    title: string;
+    desc: string;
+    searchPlaceholder: string;
+    allCategories: string;
+    verifiedBase: string;
+    totalArticles: string;
+  };
+  aiResponse: {
+    officialAssistant: string;
+    requirement: string;
+    actionSteps: string;
+    documents: string;
+    whereToGo: string;
+    importantNote: string;
+  };
+}

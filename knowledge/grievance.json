@@ -1,0 +1,42 @@
+[
+  {
+    "id": "griev-001",
+    "title": "Cooperative Society Internal Grievance Protocol & Registrar Hierarchy",
+    "category": "Grievance Redressal",
+    "language": "en",
+    "content": "Step 1: Submit written representation to the Secretary / Chairman of the Managing Committee and secure an acknowledged copy. Step 2: If unresolved within 30 days, file formal complaint with the Assistant Registrar / District Deputy Registrar (DDR) of Cooperative Societies under the State Cooperative Societies Act. Step 3: For financial irregularities, write to the Cooperative Ombudsman or District Cooperative Court.",
+    "source": "Cooperative Grievance Redressal Mechanism",
+    "lastUpdated": "2026-02-01",
+    "isVerified": true
+  },
+  {
+    "id": "griev-002",
+    "title": "PMFBY Crop Insurance Grievance & Escalation Ladder",
+    "category": "Grievance Redressal",
+    "language": "en",
+    "content": "Step 1: Contact Insurance Company District Office or call National Helpline 14447. Step 2: Approach District Level Monitoring Committee (DLMC) headed by District Collector / Magistrate. Step 3: Escalate to State Level Grievance Redressal Committee (SGRC) within the Agriculture Department if claim is wrongfully repudiated or delayed beyond standard settlement cycle.",
+    "source": "Ministry of Agriculture & Farmers Welfare PMFBY Guidelines",
+    "lastUpdated": "2026-02-12",
+    "isVerified": true
+  },
+  {
+    "id": "griev-003",
+    "title": "तक्रार निवारण प्रक्रिया (मराठी)",
+    "category": "Grievance Redressal",
+    "language": "mr",
+    "content": "सहकारी संस्थेविरुद्ध तक्रार असल्यास प्रथम संस्थेच्या सचिवांना लेखी अर्ज द्यावा व त्याची पोचपावती घ्यावी. ३० दिवसांत निवारण न झाल्यास तालुका उपनिबंधक किंवा जिल्हा उपनिबंधक (DDR) यांच्याकडे रीतसर तक्रार दाखल करावी. पीक विम्याच्या तक्रारीसाठी टोल-फ्री १४४४७ किंवा जिल्हा कृषी अधीक्षकांशी संपर्क साधावा.",
+    "source": "महाराष्ट्र राज्य सहकार आयुक्तालय तक्रार निवारण कक्ष",
+    "lastUpdated": "2026-02-08",
+    "isVerified": true
+  },
+  {
+    "id": "griev-004",
+    "title": "शिकायत निवारण प्रक्रिया (हिंदी)",
+    "category": "Grievance Redressal",
+    "language": "hi",
+    "content": "सहकारी समिति के खिलाफ शिकायत के लिए पहले सचिव या अध्यक्ष को लिखित आवेदन दें। समाधान न होने पर सहायक रजिस्ट्रार या जिला उप निबंधक (DDR) कार्यालय में शिकायत दर्ज करें। फसल बीमा संबंधित विवाद के लिए राष्ट्रीय हेल्पलाइन 14447 पर संपर्क करें।",
+    "source": "सहकारिता विभाग शिकायत निवारण प्रकोष्ठ",
+    "lastUpdated": "2026-02-08",
+    "isVerified": true
+  }
+]

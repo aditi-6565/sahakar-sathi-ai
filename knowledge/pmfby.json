@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pmfby-001",
+    "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY) Core Scheme Overview",
+    "category": "Crop Insurance",
+    "language": "en",
+    "content": "PMFBY provides comprehensive crop risk coverage from pre-sowing to post-harvest losses due to non-preventable natural risks: drought, dry spells, flood, inundation, localized landslides, hailstorm, cyclone, pest infestations, and post-harvest unseasonal rain within 14 days of harvest. Premium paid by farmers is capped at 2% for Kharif crops, 1.5% for Rabi crops, and 5% for annual commercial/horticultural crops, with remaining subsidy co-shared by Central and State Governments.",
+    "source": "Operational Guidelines PMFBY, Ministry of Agriculture & Farmers Welfare",
+    "lastUpdated": "2026-02-01",
+    "isVerified": true
+  },
+  {
+    "id": "pmfby-002",
+    "title": "Mandatory 72-Hour Crop Loss Reporting Protocol",
+    "category": "Crop Insurance",
+    "language": "en",
+    "content": "In the event of localized calamities (hailstorm, landslide, inundation, cloud burst) or post-harvest losses, the farmer must inform the insurance company, agriculture department, bank, or through the Crop Insurance App within 72 hours of the occurrence. Necessary details include survey number, insured crop, estimated damage, and geo-tagged photos via the app.",
+    "source": "PMFBY National Portal & Toll-Free 14447",
+    "lastUpdated": "2026-02-15",
+    "isVerified": true
+  },
+  {
+    "id": "pmfby-003",
+    "title": "Documents Checklist for PMFBY Application & Claim",
+    "category": "Crop Insurance",
+    "language": "en",
+    "content": "Mandatory documents: 1. Aadhaar Card, 2. Land Record Document (7/12 extract, RoR, Land Ownership Certificate or Tenancy Agreement), 3. Active Bank Passbook copy (Aadhaar seeded bank account), 4. Sowing Certificate / Crop Declaration issued by village revenue officer or self-declaration, 5. Crop insurance receipt / policy acknowledgement slip.",
+    "source": "PMFBY Farmer Guidelines",
+    "lastUpdated": "2026-01-25",
+    "isVerified": true
+  },
+  {
+    "id": "pmfby-004",
+    "title": "प्रधानमंत्री फसल बीमा योजना (PMFBY) - हिंदी मार्गदर्शिका",
+    "category": "Crop Insurance",
+    "language": "hi",
+    "content": "पीएमएफबीवाई प्राकृतिक आपदाओं (सूखा, बाढ़, ओलावृष्टि, कीट प्रकोप आदि) से फसल नुकसान पर किसानों को आर्थिक सुरक्षा प्रदान करती है। किसान को खरीफ फसलों के लिए केवल 2%, रबी के लिए 1.5% और बागवानी के लिए 5% प्रीमियम देना होता है। स्थानीय आपदा होने पर 72 घंटे के भीतर सूचना देना अनिवार्य है।",
+    "source": "कृषि एवं किसान कल्याण मंत्रालय",
+    "lastUpdated": "2026-02-10",
+    "isVerified": true
+  },
+  {
+    "id": "pmfby-005",
+    "title": "प्रधानमंत्री पीक विमा योजना (PMFBY) - मराठी माहिती",
+    "category": "Crop Insurance",
+    "language": "mr",
+    "content": "पीक नुकसानीपासून आर्थिक संरक्षण देण्यासाठी ही योजना आहे. नैसर्गिक आपत्ती (अतिवृष्टी, गारपीट, दुष्काळ) आल्यास ७२ तासांच्या आत विमा कंपनी, कृषी विभाग किंवा क्रॉप इन्शुरन्स ॲपवर तक्रार नोंदवणे अनिवार्य आहे. आवश्यक कागदपत्रे: आधार कार्ड, ७/१२ उतारा, ८-अ, बँक पासबूक, पीक पेरणी स्वयंघोषणापत्र.",
+    "source": "महाराष्ट्र शासन कृषी विभाग व पीएमएफबीवाय",
+    "lastUpdated": "2026-02-10",
+    "isVerified": true
+  }
+]

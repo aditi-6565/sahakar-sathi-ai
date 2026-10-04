@@ -1,0 +1,6 @@
+{
+  "name": "Sahakar Sathi AI",
+  "description": "Your Multilingual Digital Companion for Cooperatives, Farmers & Rural Services - Ministry of Cooperation & NCCT",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

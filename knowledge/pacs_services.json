@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pacs-001",
+    "title": "Primary Agricultural Credit Societies (PACS) Core & Expanded Functions",
+    "category": "PACS Services",
+    "language": "en",
+    "content": "PACS operate at the village gram panchayat level and serve as the grassroots link for cooperative finance. Traditional functions include short-term crop loans (via Kisan Credit Cards), medium-term investment loans for irrigation, cattle, or farm implements, and deposit mobilization. Modern expanded functions include distribution of subsidized quality seeds, fertilizers (IFFCO/KRIBHCO), operating Custom Hiring Centres for tractors and harvesters, running CSC citizen services (Aadhaar update, utility bills, PM-Kisan eKYC), and fair price shops.",
+    "source": "NABARD & Ministry of Cooperation",
+    "lastUpdated": "2026-02-12",
+    "isVerified": true
+  },
+  {
+    "id": "pacs-002",
+    "title": "Kisan Credit Card (KCC) through PACS",
+    "category": "PACS Services",
+    "language": "en",
+    "content": "Through PACS, small and marginal farmers can avail crop loans up to ₹3,00,000 at a concessional interest rate of 7%, which reduces to 4% upon prompt repayment under the Interest Subvention Scheme (ISS). Collateral is generally not required for loans up to ₹1,60,000.",
+    "source": "Reserve Bank of India & NABARD KCC Guidelines",
+    "lastUpdated": "2026-01-28",
+    "isVerified": true
+  },
+  {
+    "id": "pacs-003",
+    "title": "पॅक्स (PACS) सेवा व कार्ये (Marathi)",
+    "category": "PACS Services",
+    "language": "mr",
+    "content": "प्राथमिक कृषी पतपुरवठा संस्था (PACS) गावातील शेतकऱ्यांना अल्पमुदत पीक कर्ज (KCC), दर्जेदार खते, प्रमाणित बियाणे आणि औषधे वाजवी दरात पुरवतात. नवीन नियमांनुसार आता पॅक्समध्ये सीएससी (CSC) द्वारे शासकीय योजनांचे अर्ज, वीज बिल भरणा आणि शेती अवजारे भाड्याने मिळण्याची सोय उपलब्ध आहे.",
+    "source": "महाराष्ट्र राज्य सहकार बँक व पॅक्स नियमावली",
+    "lastUpdated": "2026-02-14",
+    "isVerified": true
+  },
+  {
+    "id": "pacs-004",
+    "title": "पैक्स (PACS) द्वारा प्रदान की जाने वाली सेवाएं (Hindi)",
+    "category": "PACS Services",
+    "language": "hi",
+    "content": "पैक्स ग्रामीण स्तर पर किसानों की जीवनरेखा हैं। प्रमुख सेवाएं: रियायती दर पर किसान क्रेडिट कार्ड (केसीसी) ऋण, रासायनिक एवं जैविक उर्वरक वितरण, बीज आपूर्ति, कृषि उपकरण बैंक (कस्टम हायरिंग), फसल खरीद केंद्र एवं डिजिटल सेवाएं।",
+    "source": "नाबार्ड एवं सहकारिता मंत्रालय",
+    "lastUpdated": "2026-02-14",
+    "isVerified": true
+  }
+]

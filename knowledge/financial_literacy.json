@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fin-001",
+    "title": "Understanding Agricultural Loans, Simple vs Compound Interest and EMI",
+    "category": "Financial Literacy",
+    "language": "en",
+    "content": "Crop loans under Kisan Credit Card (KCC) are generally simple interest loans for the crop cycle duration. Defaulting past the due date triggers conversion into non-performing status and higher penal rates. For term loans (tractors, equipment), Equated Monthly Installment (EMI) consists of both principal and interest components. Higher down-payments reduce total interest paid over time.",
+    "source": "RBI Financial Education Guidelines",
+    "lastUpdated": "2026-01-20",
+    "isVerified": true
+  },
+  {
+    "id": "fin-002",
+    "title": "Safe Digital Banking, UPI Best Practices & Scam Avoidance",
+    "category": "Financial Literacy",
+    "language": "en",
+    "content": "Golden Rules of UPI: 1. You NEVER need to enter your UPI PIN to RECEIVE money. Entering PIN always deducts money from your account. 2. Never share OTP or debit card CVV with anyone posing as a bank manager or cooperative officer. 3. Check SMS alerts for immediate transaction verification. If defrauded, dial 1930 (National Cyber Crime Helpline) within golden hour.",
+    "source": "NPCI & RBI Cyber Security Guidelines",
+    "lastUpdated": "2026-02-10",
+    "isVerified": true
+  },
+  {
+    "id": "fin-003",
+    "title": "आर्थिक साक्षरता आणि कर्ज व्यवस्थापन (Marathi)",
+    "category": "Financial Literacy",
+    "language": "mr",
+    "content": "कर्ज घेताना व्याजाचा दर, परतफेडीचा कालावधी आणि हप्ता (EMI) समजून घेणे अत्यंत महत्त्वाचे आहे. कधीही कोणालाही आपला बँक ओटीपी (OTP) किंवा यूपीआय पिन (UPI PIN) देऊ नका. पैसे खात्यात जमा होण्यासाठी कधीही पिन टाकावा लागत नाही. सायबर फसवणूक झाल्यास त्वरित १९३० क्रमांकावर संपर्क साधा.",
+    "source": "रिझर्व्ह बँक ऑफ इंडिया ग्राहक जनजागृती",
+    "lastUpdated": "2026-02-05",
+    "isVerified": true
+  },
+  {
+    "id": "fin-004",
+    "title": "वित्तीय साक्षरता एवं सुरक्षित डिजिटल भुगतान (Hindi)",
+    "category": "Financial Literacy",
+    "language": "hi",
+    "content": "पैसे प्राप्त करने के लिए कभी भी यूपीआई पिन दर्ज करने की आवश्यकता नहीं होती। किसी भी अनजान व्यक्ति के साथ अपना बैंक ओटीपी, पासवर्ड या आधार विवरण साझा न करें। समय पर ऋण चुकाने से आपका सिबिल स्कोर अच्छा रहता है जिससे भविष्य में कम ब्याज पर ऋण मिलता है।",
+    "source": "आरबीआई वित्तीय साक्षरता प्रकोष्ठ",
+    "lastUpdated": "2026-02-05",
+    "isVerified": true
+  }
+]

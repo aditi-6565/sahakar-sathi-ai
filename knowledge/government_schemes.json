@@ -1,0 +1,62 @@
+[
+  {
+    "id": "scheme-001",
+    "title": "Computerization of Primary Agricultural Credit Societies (PACS)",
+    "category": "Government Schemes",
+    "language": "en",
+    "content": "A flagship Centrally Sponsored Project by the Ministry of Cooperation with a financial outlay of ₹2,516 Crore for computerizing over 63,000 functional PACS across India. Integrates PACS onto a cloud-based National Enterprise Resource Planning (ERP) software, connecting them to NABARD, State Cooperative Banks, and District Central Cooperative Banks (DCCBs) to bring transparency and financial inclusion.",
+    "source": "Ministry of Cooperation, Government of India",
+    "lastUpdated": "2026-02-15",
+    "isVerified": true
+  },
+  {
+    "id": "scheme-002",
+    "title": "Model By-laws for PACS as Multi-Purpose Service Centres",
+    "category": "Government Schemes",
+    "language": "en",
+    "content": "Model by-laws drafted by the Ministry of Cooperation enable PACS to expand beyond credit into 25+ activities: setting up grain storage facilities, distributing fertilizer, seeds, and pesticides, operating Common Service Centres (CSCs), opening retail petrol/diesel pumps, LPG distributorships, and operating custom hiring centres for agricultural equipment.",
+    "source": "Ministry of Cooperation Circular",
+    "lastUpdated": "2026-01-30",
+    "isVerified": true
+  },
+  {
+    "id": "scheme-003",
+    "title": "World's Largest Grain Storage Plan in Cooperative Sector",
+    "category": "Government Schemes",
+    "language": "en",
+    "content": "Inter-ministerial convergence plan creating decentralized food grain storage godowns and processing infrastructure at the PACS level across India. Enables farmers to store produce locally, avoid distress sales, obtain Kisan Credit Card (KCC) pledge loans against warehouse receipts (e-NWRs), and reduce post-harvest food waste.",
+    "source": "Ministry of Cooperation & Department of Agriculture",
+    "lastUpdated": "2026-02-18",
+    "isVerified": true
+  },
+  {
+    "id": "scheme-004",
+    "title": "National Cooperative Exports Limited (NCEL) & NCEL Facilitation",
+    "category": "Government Schemes",
+    "language": "en",
+    "content": "Multi-State Cooperative Society established under MSCS Act to promote global export of agricultural surplus produced by rural cooperatives and primary farmers, ensuring remunerative international prices directly to producers.",
+    "source": "NCEL / Ministry of Cooperation",
+    "lastUpdated": "2026-02-10",
+    "isVerified": true
+  },
+  {
+    "id": "scheme-005",
+    "title": "पीएसीएस संगणकीकरण योजना (Hindi)",
+    "category": "Government Schemes",
+    "language": "hi",
+    "content": "सहकारिता मंत्रालय द्वारा 63,000+ प्राथमिक कृषि ऋण समितियों (PACS) के डिजिटलीकरण की राष्ट्रीय योजना। ईआरपी सॉफ्टवेयर के माध्यम से पारदर्शिता, शून्य धोखाधड़ी और सीधे बैंकिंग सुविधाएं ग्रामीण किसानों तक पहुँचाई जा रही हैं।",
+    "source": "सहकारिता मंत्रालय, भारत सरकार",
+    "lastUpdated": "2026-02-12",
+    "isVerified": true
+  },
+  {
+    "id": "scheme-006",
+    "title": "पॅक्स संगणकीकरण आणि बहुउद्देशीय सेवा (Marathi)",
+    "category": "Government Schemes",
+    "language": "mr",
+    "content": "सहकार मंत्रालयाच्या योजनेअंतर्गत प्राथमिक कृषी पतसंस्था (PACS) आता केवळ कर्जवाटप न करता खते, बियाणे, साठवणूक गोदाम, सीएससी केंद्र व ग्राहक सेवा पुरवणारे बहुउद्देशीय केंद्र बनत आहेत.",
+    "source": "सहकार मंत्रालय अधिकृत मार्गदर्शक सूचना",
+    "lastUpdated": "2026-02-12",
+    "isVerified": true
+  }
+]

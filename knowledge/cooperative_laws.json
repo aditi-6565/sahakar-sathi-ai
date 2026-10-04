@@ -1,0 +1,52 @@
+[
+  {
+    "id": "coop-001",
+    "title": "Cooperative Society Membership Eligibility & Rights",
+    "category": "Cooperative Governance",
+    "language": "en",
+    "content": "Any individual above 18 years of age residing in the operational area of the society, or an eligible farmer in the case of agricultural credit societies, can apply for membership. Rights include voting rights (one member, one vote irrespective of shareholding), right to receive dividends, right to inspect books and registers during working hours, and right to contest management committee elections upon meeting statutory eligibility criteria under the State Cooperative Societies Act.",
+    "source": "State Cooperative Societies Act & Multi-State Cooperative Societies (MSCS) Act 2002",
+    "lastUpdated": "2026-01-15",
+    "isVerified": true
+  },
+  {
+    "id": "coop-002",
+    "title": "Annual General Meeting (AGM) and Member Rights",
+    "category": "Cooperative Governance",
+    "language": "en",
+    "content": "Every cooperative society must convene an Annual General Body Meeting (AGM) within the prescribed period (generally within 6 months of financial year end, by September 30). Members have the right to review audited accounts, approve annual budgets, question committee decisions, and vote on dividend distribution. A minimum quorum (often 20% or as defined in by-laws) is mandatory.",
+    "source": "Model Cooperative By-laws, Ministry of Cooperation",
+    "lastUpdated": "2026-02-10",
+    "isVerified": true
+  },
+  {
+    "id": "coop-003",
+    "title": "Cooperative By-laws and Amendment Procedures",
+    "category": "Cooperative Governance",
+    "language": "en",
+    "content": "By-laws define the governance structure, share capital, voting procedures, and operational rules of a cooperative. Any amendment requires approval by a two-thirds majority of members present and voting in a general meeting with prior notice, followed by mandatory registration with the District Registrar of Cooperative Societies.",
+    "source": "Registrar of Cooperative Societies (RCS) Guidelines",
+    "lastUpdated": "2026-01-20",
+    "isVerified": true
+  },
+  {
+    "id": "coop-004",
+    "title": "सहकारी संस्था सभासदत्व व अधिकार (Marathi)",
+    "category": "Cooperative Governance",
+    "language": "mr",
+    "content": "सहकारी संस्थेत १८ वर्षांवरील कोणताही पात्र नागरिक किंवा शेतकरी सभासद होऊ शकतो. 'एक सभासद, एक मत' या लोकशाही तत्त्वावर मतदान अधिकार असतो. वार्षिक सर्वसाधारण सभेत (AGM) हिशेब तपासणी अहवाल पाहणे, प्रश्न विचारणे, लाभांश मिळवणे आणि व्यवस्थापन समितीच्या निवडणुकीत भाग घेण्याचा अधिकार असतो.",
+    "source": "महाराष्ट्र सहकारी संस्था कायदा १९६० व नियम",
+    "lastUpdated": "2026-02-01",
+    "isVerified": true
+  },
+  {
+    "id": "coop-005",
+    "title": "सहकारी समिति सदस्यता एवं अधिकार (Hindi)",
+    "category": "Cooperative Governance",
+    "language": "hi",
+    "content": "सहकारी समिति में 18 वर्ष से अधिक आयु का कोई भी पात्र नागरिक या किसान सदस्यता हेतु आवेदन कर सकता है। प्रत्येक सदस्य को 'एक सदस्य, एक वोट' का लोकतांत्रिक अधिकार प्राप्त होता है। वार्षिक आम बैठक (AGM) में भाग लेना, लेखा परीक्षण रिपोर्ट देखना और निर्वाचन में भाग लेना सदस्य का वैधानिक अधिकार है।",
+    "source": "सहकारी समितियां अधिनियम एवं मॉडल उप-नियम",
+    "lastUpdated": "2026-02-05",
+    "isVerified": true
+  }
+]
